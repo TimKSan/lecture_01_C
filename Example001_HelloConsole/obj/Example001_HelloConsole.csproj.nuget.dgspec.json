@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tim67\\OneDrive\\Рабочий стол\\js\\GeekB\\3 С# Знакомство с языками программирования\\1 Лекция\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tim67\\OneDrive\\Рабочий стол\\js\\GeekB\\3 С# Знакомство с языками программирования\\1 Лекция\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tim67\\OneDrive\\Рабочий стол\\js\\GeekB\\3 С# Знакомство с языками программирования\\1 Лекция\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectName": "Example001_HelloConsole",
+        "projectPath": "C:\\Users\\tim67\\OneDrive\\Рабочий стол\\js\\GeekB\\3 С# Знакомство с языками программирования\\1 Лекция\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "packagesPath": "C:\\Users\\tim67\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tim67\\OneDrive\\Рабочий стол\\js\\GeekB\\3 С# Знакомство с языками программирования\\1 Лекция\\Example001_HelloConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tim67\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
